@@ -1,4 +1,4 @@
-## 🛍️ Sistema Loja
+# 🛍️ Sistema Loja
 Projeto desenvolvido em Java utilizando Eclipse, com funcionalidades completas de cadastro, leitura, atualização e deleção (CRUD) de produtos e clientes, além de controle de vendas e estoque. O sistema é funcional e executável após compilação, com armazenamento de dados em memória durante a execução.
 
 ## ✨ Sobre este projeto
